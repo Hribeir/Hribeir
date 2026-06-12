@@ -13,7 +13,7 @@ Focused on:
 ## Stack
 
 <p align="left"> 
- <img src="https://skillicons.dev/icons?i=python,java,c,bash,powershell,linux,react,nodejs,spring,docker,postgres,git,github" /> 
+ <img src="https://skillicons.dev/icons?i=python,java,c,bash,powershell,linux,react,nodejs,spring,docker,aws,postgres,git,github" /> 
 </p>
 
 ## Current Focus
